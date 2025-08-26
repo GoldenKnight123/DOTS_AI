@@ -2,7 +2,11 @@
 
 A sandbox application that allows you to create and obstacle course and allow DOTS controlled by a genetic algorithm, which will learn and find the best path through the obstacle course over time.
 
-Keyboard Controls:
+## 🌐 Try it Online
+
+You can try the WebAssembly version of DOTS AI in your browser: [Play DOTS AI](https://hanxiang.dev/dots_ai/index.html)
+
+## Keyboard Controls
 
 1: Spawn an obstacle (red), will kill dots when they touch them.
 
